@@ -8,7 +8,7 @@ The project is based on the work in:
 
 [Evaluating surgical skills from kinematic data using convolutional neural networks](https://arxiv.org/abs/1806.02750)
 
-All codes runs in Google Colab. 
+All codes can run in Google Colab. 
 
 Start by running [SDS_DATAsetup_analysis.ipynb](./SDS_DATAsetup_analysis.ipynb)
 
