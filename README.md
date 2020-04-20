@@ -1,6 +1,6 @@
 # SDS project
 
-This is the folder for Surgical Data Science course project.
+This is the source code folder for Surgical Data Science course project.
 
 Project title: **Extended validation for a CNN based surgical skill assessment method**
 
